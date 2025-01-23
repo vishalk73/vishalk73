@@ -14,4 +14,4 @@ Project Management | JAVA full stack development | AWS Cloud Technology.
 - 💬 Ask me about DSA, Database, System Design, and Interview. 
 - 📫 How to reach me: www.linkedin.com/in/vishal-kumar-b40a40187
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Debugging code is like chasing a Ghost, You Know it's there, you just can't see it
+- ⚡ Fun fact: Debugging code is like chasing a Ghost, You Know it's there, you just can't see it.
