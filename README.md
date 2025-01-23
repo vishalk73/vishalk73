@@ -10,7 +10,7 @@ Project Management | JAVA full stack development | AWS Cloud Technology.
 - 🔭 I’m currently working on E-commerce projects like Amazon, Flipkart.
 - 🌱 I’m currently learning Backend technologies 
 - 👯 I’m looking to collaborate on projects and R&D.
-- 🤔 I’m looking for help with.
+- 🤔 I’m looking for help with developer connections and carrier opportunity.
 - 💬 Ask me about DSA, Database, System Design, and Interview. 
 - 📫 How to reach me: www.linkedin.com/in/vishal-kumar-b40a40187
 - 😄 Pronouns: he/him
